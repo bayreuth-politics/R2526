@@ -32,9 +32,9 @@ ________
 
 • Activity in class (10%)
 
-• Take-home exam (30% )
+• Take-home exam (40% )
 
-• Presentations (60% of final mark)
+• Presentations (50% of final mark)
 
 ________
 
@@ -51,7 +51,7 @@ We will take the time to get accustomed to RStudio during our seminar. For a sta
 
 • As a final step in preparation of our seminar, please take your time to work through the first script on this website. The goal is to have the code replicated in your own RScript on your computer. To this end, you may either copy the code from the website or type it yourself. While the former probably sounds more appealing, I strongly recommend the latter - it will help you learn the basics much faster. It will be time well spent.
 
-Note that there also is a glossary that explains frequent and useful terms. You may want to have a look at this or simply use this as a first help whenever you encounter a new term/concept you're not sure about.
+Note that there also is a glossary that explains frequent and useful terms. You may want to have a look at this or simply use this as a first help whenever you encounter a new term/concept you're not sure about. Lastly, there are some helpful guides in case you would want to get familiar with R Markdown. While this is highly encouraged, you should leave thisfor later and focus on the script for now.
 
 ________
 
