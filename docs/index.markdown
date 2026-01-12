@@ -15,11 +15,11 @@ ________
 ## Date & Time
 
 
-**Fiday 16th January 2026: 12pm - 6pm** - S 46 (RWII). 
+**Fiday 16th January 2026: 12pm - 7pm** - S 6 (GWII). 
 
-**Saturday 17th January 2026: 9am - 6pm** - S 46 (RWII). 
+**Saturday 17th January 2026: 9am - 7pm** - S 6 (GWII). 
 
-**Sunday 18th January 2026: 12pm - 6pm** - S 46 (RWII). 
+**Sunday 18th January 2026: 9pm - 5pm** - S 6 (GWII). 
 
 
 **Presentations will likely take place in April 2026 (tbc)**
@@ -55,7 +55,7 @@ Note that there also is a glossary that explains frequent and useful terms. You 
 
 ________
 
-## Syllabus
+<!--## Syllabus-->
 
 
 <embed src="R25_Syllabus_Bayreuth.pdf" width="800" height="650" 
