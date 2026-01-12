@@ -6,19 +6,22 @@ has_children: false
 nav_order: 4
 ---
 
-[Part 1: Intro](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week1.pdf){: .btn .btn-blue .mr-3}
-[Part 2: Measurement & Descriptive Stats](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week2.pdf){: .btn .btn-blue .mr-3}
-[Part 3: Sampling & Measurement](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week3.pdf){: .btn .btn-blue .mr-3}
+Here, you'll shortly find our lecture slides.
 
 
-[Part 4: Prediction](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week4.pdf){: .btn .btn-blue .mr-3}
-[Part 5: Multivariate Regression](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week5.pdf){: .btn .btn-blue .mr-3}
-[Part 6:  Probability & Uncertainty](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week6.pdf){: .btn .btn-blue .mr-3}
+[comment]: <> ([Part 1: Intro](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week1.pdf){: .btn .btn-blue .mr-3})
+[comment]: <> ([Part 2: Measurement & Descriptive Stats](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week2.pdf){: .btn .btn-blue .mr-3})
+[comment]: <> ([Part 3: Sampling & Measurement](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week3.pdf){: .btn .btn-blue .mr-3})
 
 
-[Part 7:  Hypothesis Testing](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week7.pdf){: .btn .btn-blue .mr-3}
-[Part 8:  OLS Assumptions & Limits](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week8.pdf){: .btn .btn-blue .mr-3}
-[Part 9:  Interactions & Non-Linearity](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week9.pdf){: .btn .btn-blue .mr-3}
+[comment]: <> ([Part 4: Prediction](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week4.pdf){: .btn .btn-blue .mr-3})
+[comment]: <> ([Part 5: Multivariate Regression](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week5.pdf){: .btn .btn-blue .mr-3})
+[comment]: <> ([Part 6:  Probability & Uncertainty](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week6.pdf){: .btn .btn-blue .mr-3})
+
+
+[comment]: <> ([Part 7:  Hypothesis Testing](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week7.pdf){: .btn .btn-blue .mr-3})
+[comment]: <> ([Part 8:  OLS Assumptions & Limits](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week8.pdf){: .btn .btn-blue .mr-3})
+[comment]: <> ([Part 9:  Interactions & Non-Linearity](https://raw.githubusercontent.com/bayreuth-politics/R24/main/docs/slides/DataR_24_Week9.pdf){: .btn .btn-blue .mr-3})
 
 [comment]: <> ([Part 2: Measurement & Descriptive Stats] https://github.com/bayreuth-politics/R24/blob/6c48652a26ab0ad890107cc351e099126718a880/docs/slides/DataR_24_Week1.pdf{: .btn .btn-blue .mr-3})
 
