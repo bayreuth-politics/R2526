@@ -148,4 +148,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 You can find more commands [\textcolor{blue}{in this R Markdown cheat sheet.}](https://rmarkdown.rstudio.com/lesson-15.HTML)
 
 
+
 Moreover, there's a great tutorial available on [\textcolor{blue}{RStudio.Cloud}](https://rmarkdown.rstudio.com/lesson-1.html)
