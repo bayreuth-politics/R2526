@@ -15,8 +15,11 @@ ________
 ## Date & Time
 
 **Fiday 16th January 2026: 12pm - 6pm** - S 46 (RWII). 
+
 **Saturday 17th January 2026: 9am - 6pm** - S 46 (RWII). 
+
 **Sunday 18th January 2026: 12pm - 6pm** - S 46 (RWII). 
+
 
 **Presentations will likely take place in April 2026 (tbc)**
 
