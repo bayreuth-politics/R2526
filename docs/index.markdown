@@ -7,38 +7,36 @@ nav_order: 1
 
 
 
-This is the page of the *Data Analysis in R* course in Winter Term 2024/25 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
-
-________
-
-## Take-Home Exam
-
-You can access the take-home exam **now via the menu on the left** and will submit your response by 17 February at 12pm (midday) via email.
+This is the page of the *Data Analysis in R* course in Winter Term 2025/26 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. 
 
 ________
 
 
 ## Date & Time
 
-**Thursdays: 10am - 12pm** - S 46 (RWII). 
+**Fiday 16th January 2026: 12pm - 6pm** - S 46 (RWII). 
+**Saturday 17th January 2026: 9am - 6pm** - S 46 (RWII). 
+**Sunday 18th January 2026: 12pm - 6pm** - S 46 (RWII). 
+
+**Presentations will likely take place in April 2026 (tbc)**
 
 ________
 
 
 ## Assessments
 
-• Activity in class (15%)
+• Activity in class (10%)
 
-• Homework (10%)
+• Take-home exam (30% )
 
-• Take-home exam (75% of final mark)
+• Presentations (60% of final mark)
 
 ________
 
 
 ## Preparation
 
-Please download and install **R** and **RStudio** - and make sure it works on your machine - *before* 31 October. You can simply follow these steps: 
+Please download and install **R** and **RStudio** - and make sure it works on your machine - *before* 16 January. You can simply follow these steps: 
 
 • To download R, go to: https://cran.rstudio.com/. Select and install the appropriate version for your machine.
 
@@ -55,5 +53,5 @@ ________
 ## Syllabus
 
 
-<embed src="R24_Syllabus_Bayreuth.pdf" width="800" height="650" 
+<embed src="R25_Syllabus_Bayreuth.pdf" width="800" height="650" 
  type="application/pdf">
