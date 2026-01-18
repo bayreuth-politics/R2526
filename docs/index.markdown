@@ -11,6 +11,13 @@ This is the page of the *Data Analysis in R* course in Winter Term 2025/26 at th
 
 ________
 
+## Evaluation
+
+Master's students: [https://eval.uni-bayreuth.de/unizensus/de/sl/efkuq3c8Rhsa](https://eval.uni-bayreuth.de/unizensus/de/sl/efkuq3c8Rhsa)
+Bachelor's students: [https://eval.uni-bayreuth.de/unizensus/de/sl/kH33W51CT92Q](https://eval.uni-bayreuth.de/unizensus/de/sl/kH33W51CT92Q)
+
+________
+
 
 ## Date & Time
 
@@ -54,10 +61,6 @@ We will take the time to get accustomed to RStudio during our seminar. For a sta
 Note that there also is a glossary that explains frequent and useful terms. You may want to have a look at this or simply use this as a first help whenever you encounter a new term/concept you're not sure about. Lastly, there are some helpful guides in case you would want to get familiar with R Markdown. While this is highly encouraged, you should leave thisfor later and focus on the script for now.
 
 
-________
-## Evaluation
-
-https://eval.uni-bayreuth.de/unizensus/de/sl/efkuq3c8Rhsa
 
 ________
 ## Survey
